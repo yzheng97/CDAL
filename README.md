@@ -1,6 +1,7 @@
 # 🔍ICCV 2025🔍 Learning Counterfactually Decoupled Attention for Open-World Model Attribution
 
 [Yu Zheng*](https://yzheng97.github.io/), [Boyang Gong*](https://github.com/wfr429), Fanye Kong, [Yueqi Duan](https://duanyueqi.github.io/), [Bingyao Yu](https://yuby14.github.io/), [Wenzhao Zheng](https://wzzheng.net/), [Lei Chen](https://leichenthu.github.io/), [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/), [Jie Zhou](https://www.au.tsinghua.edu.cn/info/1078/3126.htm)<br>
+*Equal Contribution. 
 Department of Automation, Tsinghua University
 
 <div align='center'>

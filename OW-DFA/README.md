@@ -1,4 +1,4 @@
-# CDAL-CPL
+# CDAL-OW-DFA
 
 This folder contains the implementation of the OW-DFA experiments.
 

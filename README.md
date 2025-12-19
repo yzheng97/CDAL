@@ -16,7 +16,7 @@ Please see [CDAL-OSMA](OSMA/).
 
 ## CDAL for OW-DFA
 
-Please see [CDAL-CPL](OW-DFA/).
+Please see [CDAL-OW-DFA](OW-DFA/).
 
 ## Citation
 
